@@ -32,28 +32,28 @@
     [
         "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1516921055562,
             "changeTime": 1516921055562,
-            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2"
+            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\aura",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1516920463236,
-            "changeTime": 1516920463236,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 0,
+            "modifiedTime": 1516921101844,
+            "changeTime": 1516921101844,
+            "isWorkspace": false,
+            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f"
         }
     ],
     [
@@ -281,14 +281,14 @@
     [
         "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
-            "size": 183,
-            "modifiedTime": 1516920619473,
-            "changeTime": 1516920619473,
-            "contentHash": "6d3f6812a6c1b614697dc68dcf06eca006afa56d",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 207,
+            "modifiedTime": 1516921216480,
+            "changeTime": 1516921216480,
+            "contentHash": "37e98d89648bc66e9fbd19c28468ec4a1ac8cbb7"
         }
     ],
     [
@@ -736,183 +736,313 @@
     [
         "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 223,
             "modifiedTime": 1516921055566,
             "changeTime": 1516921055566,
-            "contentHash": "fe95029d9d0695d7ebbb9f1ee9a2a5448a6e8fbb"
+            "contentHash": "fe95029d9d0695d7ebbb9f1ee9a2a5448a6e8fbb",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1259,
             "modifiedTime": 1516921055787,
             "changeTime": 1516921055787,
-            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee"
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 696,
             "modifiedTime": 1516921055789,
             "changeTime": 1516921055789,
-            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06"
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2464,
             "modifiedTime": 1516921055791,
             "changeTime": 1516921055791,
-            "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5"
+            "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1466,
             "modifiedTime": 1516921055821,
             "changeTime": 1516921055821,
-            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da"
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 618,
             "modifiedTime": 1516921055825,
             "changeTime": 1516921055825,
-            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc"
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 396928,
             "modifiedTime": 1516921055868,
             "changeTime": 1516921055868,
-            "contentHash": "4240045cf30725cb9980498fcc2ebf27a2f3c260"
+            "contentHash": "4240045cf30725cb9980498fcc2ebf27a2f3c260",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 755043,
             "modifiedTime": 1516921055874,
             "changeTime": 1516921055874,
-            "contentHash": "ca31fc870259d8faaa12c2f431906f368ea92791"
+            "contentHash": "ca31fc870259d8faaa12c2f431906f368ea92791",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 14198,
             "modifiedTime": 1516921055879,
             "changeTime": 1516921055879,
-            "contentHash": "57d2f781ab8b7b41d1dd5f0a51cd1930050ca9dc"
+            "contentHash": "57d2f781ab8b7b41d1dd5f0a51cd1930050ca9dc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 139643,
             "modifiedTime": 1516921055945,
             "changeTime": 1516921055945,
-            "contentHash": "997eed0c9cf25113c35b4213569b2323ad7d861e"
+            "contentHash": "997eed0c9cf25113c35b4213569b2323ad7d861e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 190004,
             "modifiedTime": 1516921055951,
             "changeTime": 1516921055951,
-            "contentHash": "d94996a1df21dc6283868fdf6c0f1e50358eafea"
+            "contentHash": "d94996a1df21dc6283868fdf6c0f1e50358eafea",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1516921055784,
             "changeTime": 1516921055784,
-            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49"
+            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1516921055823,
             "changeTime": 1516921055823,
-            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659"
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1516921055946,
             "changeTime": 1516921055946,
-            "contentHash": "ef86d3d12efa4e132890afd141d18f3050a16029"
+            "contentHash": "ef86d3d12efa4e132890afd141d18f3050a16029",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1516921101867,
+            "changeTime": 1516921130706,
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486"
+        }
+    ],
+    [
+        "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1516921101867,
+            "changeTime": 1516921101867,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 261,
+            "modifiedTime": 1516921133611,
+            "changeTime": 1516921133611,
+            "contentHash": "b34fcebfb5dc798f7cf6689df2f96cc92eb6f534"
+        }
+    ],
+    [
+        "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1516921101853,
+            "changeTime": 1516921101853,
+            "contentHash": "3a2d6938d275475fd4ed3800a5fe9151c0677f15"
+        }
+    ],
+    [
+        "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 43,
+            "modifiedTime": 1516921152131,
+            "changeTime": 1516921152131,
+            "contentHash": "e0d03d2ffc5563b6780dcc0dfd4907e6b0ee9bfe"
+        }
+    ],
+    [
+        "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1516921101869,
+            "changeTime": 1516921101869,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1516921101864,
+            "changeTime": 1516921101864,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 380,
+            "modifiedTime": 1516921141971,
+            "changeTime": 1516921141971,
+            "contentHash": "af8e52d17b24a9d9669a5f8ea4e13b1c9e7faa45"
+        }
+    ],
+    [
+        "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1516921101857,
+            "changeTime": 1516921101857,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mark.azuolas\\Desktop\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1516921101862,
+            "changeTime": 1516921101862,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
